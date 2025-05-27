@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Dylan Li/h1>
+<h3 align="center">AI Enthusiast | Software Engineer | Junior @ UB</h3>
 <!--
 **DylanLi6905/DylanLi6905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

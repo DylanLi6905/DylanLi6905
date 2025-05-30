@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I’m Dylan Li</h1>
 <h3 align="center">Blockchain Advocate  |  AI Enthusiast   |  Software Engineer  |  Junior @ UB</h3>
 
+-----
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=DylanLi6905&label=Profile%20views&color=0e75b6&style=flat" alt="DylanLi6905 Profile Views" />
+  &nbsp;
+  <a href="https://github.com/DylanLi6905">
+    <img src="https://img.shields.io/github/followers/DylanLi6905?label=Follow&style=social" alt="GitHub Follow" />
+  </a>
+</p>
+
 ### 📫 Connect With Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dylan-li41305/)
